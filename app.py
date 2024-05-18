@@ -73,7 +73,7 @@
         function generateActivity() {
             const randomIndex = Math.floor(Math.random() * activities.length);
             document.getElementById("activity").innerText = activities[randomIndex];
-        }
+        }//commit9
     </script>
     //commit
 </body>
