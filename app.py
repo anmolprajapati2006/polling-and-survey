@@ -68,7 +68,7 @@
             "Go for a bike ride around your neighborhood",
             "Volunteer for a local charity or organization"
         ];
-
+//commit2
         // Function to generate a random activity
         function generateActivity() {
             const randomIndex = Math.floor(Math.random() * activities.length);
