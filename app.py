@@ -49,7 +49,7 @@
         <button onclick="generateActivity()">Generate Random Activity</button>
         <p id="activity"></p>
     </div>
-
+//commit6
     <script>
         // List of random activities
         const activities = [
