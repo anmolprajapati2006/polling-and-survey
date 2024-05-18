@@ -75,5 +75,6 @@
             document.getElementById("activity").innerText = activities[randomIndex];
         }
     </script>
+    //commit
 </body>
 </html>
